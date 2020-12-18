@@ -22,12 +22,12 @@ aware strategy.
 1. Ubuntu 18.04 LTS
 2. Pygame
 3. Carla Version 0.9.9.4 [CARLA_0.9.9.4](https://github.com/carla-simulator/carla/releases/tag/0.9.9)
-4. Python version -3.7
+4. Python version -3.6
 
 
 ## Standard install via command-line
 ```
 git clone --recursive https://github.com/kartikv97/Behaviour-Aware-Motion-Prediction-for-Autonomous-Vehicles.git
 cd Behaviour-Aware-Motion-Prediction-for-Autonomous-Vehicles/src
-python main.py 
+python src/Carla_demo.py
 ```
